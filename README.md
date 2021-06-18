@@ -1,3 +1,3 @@
 # Highlighter-Landing-Page
 
-![[TopFace.png]]
+![](https://github.com/chetachiezikeuzor/Highlighter-Landing-Page/blob/master/assets/TopFace.png?raw=true)
