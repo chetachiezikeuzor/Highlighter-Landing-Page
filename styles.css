@@ -56,8 +56,6 @@ body::before{
     padding-top: 36px;
     display: block;
   }
-  div.columns{
-  }
   div.column{
     display: inline;
     min-width: 100%;
